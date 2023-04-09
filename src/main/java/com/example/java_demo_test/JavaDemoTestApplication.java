@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaDemoTestApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hellow Word");
+		System.out.println("Hellow 123");
 		SpringApplication.run(JavaDemoTestApplication.class, args);
 	}
 
